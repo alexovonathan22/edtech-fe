@@ -1,0 +1,43 @@
+.btn-rounded{
+    border-radius: 30px;
+}
+.new-img-dim{
+    width: 350px;
+    height: 460px;
+
+}
+
+.md-form input:not([type]), .md-form input[type="text"]:not(.browser-default), .md-form input[type="password"]:not(.browser-default), .md-form input[type="email"]:not(.browser-default), .md-form input[type="url"]:not(.browser-default), .md-form input[type="time"]:not(.browser-default), .md-form input[type="date"]:not(.browser-default), .md-form input[type="datetime"]:not(.browser-default), .md-form input[type="datetime-local"]:not(.browser-default), .md-form input[type="tel"]:not(.browser-default), .md-form input[type="number"]:not(.browser-default), .md-form input[type="search"]:not(.browser-default), .md-form input[type="phone"]:not(.browser-default), .md-form input[type="search-md"], .md-form textarea.md-textarea {
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #ced4da;
+    border-radius: 0;
+    outline: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    -webkit-transition: border-color 0.15s ease-in-out,-webkit-box-shadow 0.15s ease-in-out;
+    transition: border-color 0.15s ease-in-out,-webkit-box-shadow 0.15s ease-in-out;
+    transition: border-color 0.15s ease-in-out,box-shadow 0.15s ease-in-out;
+    transition: border-color 0.15s ease-in-out,box-shadow 0.15s ease-in-out,-webkit-box-shadow 0.15s ease-in-out;
+}
+
+
+
+.dropdown-content li>a, .dropdown-content li>span {
+    display: block;
+    padding: .5rem;
+    font-size: .9rem;
+    color: #4285f4;
+}
+
+#bg-img{
+    height: auto;
+    background-image: url("../assets/imagesforEDTech/joanna-kosinska-1_CMoFsPfso-unsplash.jpg");
+}
+#bg-img2{
+    height: auto;
+    background-image: url("../assets/imagesforEDTech/dawid-malecki-fw7lR3ibfpU-unsplash.jpg");
+}
+
